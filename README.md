@@ -1,15 +1,24 @@
 # Lifelong learning🖖
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-<div style="display: inline_block"><br>
+# Languages 
+<div style="display: inline_block"><br> 
      <img align="center" alt="Nat-Js" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="Nat-Python" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      <img align="center" alt="Nat-Java" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 </div>
   
-  ##
- 
+  # Framework Automation
+<div style="display: inline_block"><br> 
+   <img align="center" alt="Nat-SE" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+    <img align="center" alt="Nat-Azure" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure.svg">
+
+  # Cloud
+  <img align="center" alt="Nat-Azure" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+<img align="center" alt="Nat-AWS" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/AWS/AWS.svg"> 
+          
 <div> 
 
 
