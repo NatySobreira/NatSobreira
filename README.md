@@ -1,5 +1,5 @@
 # Lifelong learning🖖
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natysobreira&show_icons=true&theme=tokyonight)
 # Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natysobreira&layout=compact)
 <div> 
