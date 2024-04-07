@@ -6,7 +6,8 @@
      <img align="center" alt="Nat-Js" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="Nat-Python" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      <img align="center" alt="Nat-Java" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
+     <img align="center" alt="Nat-Java" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+     
   # Framework Automation
 
    <img align="center" alt="Nat-SE" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
