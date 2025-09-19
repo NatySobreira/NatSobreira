@@ -1,7 +1,7 @@
-# Lifelong learnin
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natysobreira&show_icons=true&theme=tokyonight)
+# Lifelong learning
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natysobreira&layout=compact&theme=tokyonight)
 # Languages 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=natysobreira&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=natysobreira&layout=compact))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natysobreira&layout=compact&theme=tokyonight)
 <div> 
      <img align="center" alt="Nat-Js" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="Nat-Python" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -11,12 +11,15 @@
   # Framework Automation
 
    <img align="center" alt="Nat-SE" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
-    <img align="center" alt="Nat-Cy" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
-<img align="center" alt="Nat-play" src="https://img.shields.io/badge/playwright">
+   <img align="center" alt="Nat-Cy" src="https://api.devicons.dev.br/icon?icons=Cypress&size=48&theme=light&perline=30">
+   <img align="center" alt="Nat-play" src="https://api.devicons.dev.br/icon?icons=Playwright&size=48&theme=dark&perline=30">
 
   # Cloud
   <img align="center" alt="Nat-Azure" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 <img align="center" alt="Nat-AWS" height="59" width="66" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"> 
+
+# PerformanceTest
+<img align="center" alt="Nat-K6" height="33" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg"> 
 
  </div> 
  
