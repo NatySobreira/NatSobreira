@@ -1,7 +1,7 @@
 # Lifelong learnin
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natysobreira&show_icons=true&theme=tokyonight)
 # Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natysobreira&layout=compact)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=natysobreira&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=natysobreira&layout=compact))
 <div> 
      <img align="center" alt="Nat-Js" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="Nat-Python" height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
